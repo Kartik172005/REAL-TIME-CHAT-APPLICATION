@@ -97,3 +97,6 @@ It demonstrates **real-time communication** using **WebSockets**, enabling fast 
 
 ## Conclusion
 This Real-Time Chat Application successfully demonstrates how modern web applications handle live communication using WebSockets and React. The project strengthened my understanding of frontend-backend integration, real-time data handling, and responsive UI development during my internship at CODTECH IT SOLUTION.
+
+## Output
+<img width="1919" height="869" alt="Image" src="https://github.com/user-attachments/assets/3123550b-7e27-48bb-a3eb-d6029a8364f9" />
