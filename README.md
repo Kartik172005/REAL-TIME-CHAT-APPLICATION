@@ -80,5 +80,20 @@ It demonstrates **real-time communication** using **WebSockets**, enabling fast 
 
 ### Backend Setup
 
-npm install express ws cors
-node server.js
+- npm install express ws cors
+- node server.js
+
+### Frontend Setup
+
+- npm install
+- npm start
+
+## Learning Outcomes
+- Practical understanding of WebSocket-based real-time communication
+- Experience with React real-time UI updates
+- Knowledge of client-server architecture
+- Hands-on exposure to full-stack development workflow
+- Improved frontend development and state management skills
+
+## Conclusion
+This Real-Time Chat Application successfully demonstrates how modern web applications handle live communication using WebSockets and React. The project strengthened my understanding of frontend-backend integration, real-time data handling, and responsive UI development during my internship at CODTECH IT SOLUTION.
